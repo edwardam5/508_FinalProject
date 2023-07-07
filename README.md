@@ -29,7 +29,7 @@ In order to ensure that this project would remain focused and thorough throughou
 ## Data Sources 
 The data was sourced from CTU Prague Relational Learning Repository. From the relational database, titled “Finance”, the following four datasets were chosen for this project: trans.csv, trans_2.csv, account.csv, and loan.csv.
 * Link to Data: https://relational.fit.cvut.cz/dataset/Financial
-## Link to Origional Project GitHub
+## Link to Original Project GitHub
 Link: https://github.com/Sabag2127/ADS_508_Team_7_Project.git
 ## Video Presentation
 Link: https://youtu.be/HzK233pWEAM
